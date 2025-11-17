@@ -40,5 +40,3 @@ Key Insights:-
 4) All the sizes exccept 4XL,5XL,6XL contributes less volume in sales.
 
 5) Among states MH,KA,TN,UP Contributes sales more than 10%.
-
-6)eedback and suggestions for furthur improvement.
